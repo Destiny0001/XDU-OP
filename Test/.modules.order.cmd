@@ -1,0 +1,1 @@
+cmd_/home/parallels/Documents/OPGroup/Test/modules.order := {   echo /home/parallels/Documents/OPGroup/Test/my_module.ko; :; } | awk '!x[$$0]++' - > /home/parallels/Documents/OPGroup/Test/modules.order

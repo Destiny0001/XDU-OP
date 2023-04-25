@@ -1,0 +1,1 @@
+cmd_/home/parallels/Documents/OPGroup/Test/my_module.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/parallels/Documents/OPGroup/Test/my_module.ko /home/parallels/Documents/OPGroup/Test/my_module.o /home/parallels/Documents/OPGroup/Test/my_module.mod.o;  true
